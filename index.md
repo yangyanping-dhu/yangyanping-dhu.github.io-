@@ -42,7 +42,7 @@ Semester B (Spring):
 
 ### Publications (selected)
 
-1. Y. Yang, "[Switch-based cluster synchronization of networked harmonic oscillators subject to denial-of-service attacks]"(https://www.sciencedirect.com/science/article/pii/S0019057822000519), ISA Transactions, doi:10.1016/j.isatra.2022.02.002.
+1. Y. Yang, ["Switch-based cluster synchronization of networked harmonic oscillators subject to denial-of-service attacks"](https://www.sciencedirect.com/science/article/pii/S0019057822000519), ISA Transactions, doi:10.1016/j.isatra.2022.02.002.
 2. Y. Yang, W. He and Q.-L. Han, "Quasi-synchronization of heterogeneous LC circuits in grid-connected systems with intentionally time-varying lumped delays", IEEE Transactions on Circuits and Systems-I: Regular Papers, vol. 68, no. 5, pp. 2148-2157, May 2021.
 3. Y. Yang, X.-M. Zhang, W. He, Q.-L. Han and Chen Peng, "Sampled-position states based consensus of networked multi-agent systems with second-order dynamics subject to communication delays", Information Sciences, vol. 509, pp. 36-46, Jan. 2020.
 4. Y. Yang, X.-M. Zhang, W. He, Q.-L. Han and Chen Peng, "Position-based synchronization of networked harmonic oscillators with asynchronous sampling and communication delays", IEEE Transactions on Cybernetics, vol. 51, no. 8, pp. 4337-4347, Aug. 2021. 

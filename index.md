@@ -15,15 +15,15 @@
       </tr>
       </table>
 
-### Short Biography
+### [**Short Biography**]
 
 YANG Yanping received the Ph.D. degree in control theory and control engineering from Shanghai University, Shanghai, China, in 2019. In 2018, she was a Visiting Student with the Swinburne University of Technology, Melbourne, VIC, Australia, for three months. She is currently a Lecturer with the School of Information Sciences and Technology, [Donghua University (DHU)](http://english.dhu.edu.cn) , Shanghai. She has published more than 10 technical papers, some of them are in the top-tier refereed journals, such as IEEE Transactions on Cybernetics as the 1st or corresponding author. He has been one of the major participants in various scientific research projects, like National Natural Science Foundation of China. She is an active Invited Reviewer in more than 20 well-known international journals and conferences.
 
-### Research Topics
+### [**Research Topics**]
 
 Networked control system, multi-agent system, delay system, event trigger, security control
 
-### Teaching
+### [**Teaching**]
 
 Semester A (Autumn):
 1. Mathematical Modelling and Experiments (for undergraduate students)
@@ -33,14 +33,14 @@ Semester B (Spring):
 1. Automatic control theory (for undergraduate students)
 2. Autonomous intelligence (for graduate students)
 
-### Research Projects
+### [**Research Projects**]
 
 1. National Natural Science Foundation of China. "Security control of network second-order multi-agent systems subject to denial-of-service attacks", Person in Charge, Grant No. 62103097 (2022.01-2024.12).
 2. Shanghai Sailing Program. "Investigating the positive effects of transmission delay and cyber-attack on the cooperative control of multi-agent systems”, Person in Charge, Grant No. 20YF1401600 (07/2020-6/2023).
 3. Fundamental Research Funds for the Central Universities of China. Research on the positive effects of network-induced delay on networked multi-agent systems and its application, Person in Charge, Grant No. 2232020D-47 (01/2020-12/2022).
 4. Initial Research Funds for Yong Teachers of Donghua University. "Investigating the positive effects of network-induced delay on the synchronization of heterogeneous networked multiple harmonic oscillators based on position feedback", Person in Charge. 
 
-### Publications (selected)
+### [**Publications (selected)**]
 
 1. Y. Yang, ["Switch-based cluster synchronization of networked harmonic oscillators subject to denial-of-service attacks"](https://www.sciencedirect.com/science/article/pii/S0019057822000519), ISA Transactions, doi:10.1016/j.isatra.2022.02.002.
 2. Y. Yang, W. He and Q.-L. Han, ["Quasi-synchronization of heterogeneous LC circuits in grid-connected systems with intentionally time-varying lumped delays"](https://ieeexplore.ieee.org/document/9369884), IEEE Transactions on Circuits and Systems-I: Regular Papers, vol. 68, no. 5, pp. 2148-2157, May 2021.
@@ -51,7 +51,7 @@ Semester B (Spring):
 7. D. Zhang, Y. Yang and X. Jia and Q.-L. Han, ["Investigating the positive effects of packet dropouts on network-based H∞ control for a class of linear systems"](https://www.sciencedirect.com/science/article/pii/S0016003216302022),  vol. 353, no. 14, pp. 3343-3367, Sep. 2016.
 9. 杨艳萍，张大伟， [基于粒子群优化设计算法的输出跟踪控制](https://d.wanfangdata.com.cn/periodical/hljzdhjsyyy201601002)， 自动化技术与应用，第35卷，第1期，第8-13，25页，2016.
 
-### Conferences (selected)
+### [**Conferences (selected)**]
 
 1. Y. Yang and S. Li, ["Cluster consensus of multi-agent systems with switching topology under event-triggered strategy"](https://ieeexplore.ieee.org/document/9728029), 2021 China Automation Congress (CAC), Beijing, China, Oct. 22-24, 2021. 
 2. Y. Yang, D. Zhang, Q.-L. Han, C. Peng, ["Networked active vibration control of structural systems under network-induced delays"](https://ieeexplore.ieee.org/document/8691333), 5th IEEE International Conference on Cloud Computing and Intelligence Systems (CCIS), pp. 146-151, Nanjing, China, 23-25 Nov. 2018.
@@ -62,6 +62,6 @@ Semester B (Spring):
 7. W. Bai, K. Jia, Y. Yang and D. Zhang, ["Dual-rate sampled-data H∞ control for vehicle active suspension systems"](https://ieeexplore.ieee.org/document/6852724), 26th Chinese Control and Decision Conference (CCDC), pp. 3190-3195, Changsha, China, 31 May-2 June 2014.
 8. P. Albertos, A. Crespo, W. He, Y. Yang and P. Garcia, ["Networked control of unstable resonant systems"](https://ieeexplore.ieee.org/abstract/document/8899519), 15th IEEE International Conference on Control & Automation (ICCA), Edinburgh, Scotland, Jul. 16-19, 2019.
 
-### Honers and Awards
+### [**Honers and Awards**]
 
 1. Best student paper. 5th IEEE International Conference on Cloud Computing and Intelligence Systems (CCIS), Nov. 2018.

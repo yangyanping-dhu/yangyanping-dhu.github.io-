@@ -17,7 +17,7 @@
 
 ### **Short Biography**
 
-YANG Yanping received the Ph.D. degree in control theory and control engineering from Shanghai University, Shanghai, China, in 2019. In 2018, she was a Visiting Student with the Swinburne University of Technology, Melbourne, VIC, Australia, for three months. She is currently a Lecturer with the School of Information Sciences and Technology, [Donghua University (DHU)](http://english.dhu.edu.cn) , Shanghai. She has published more than 10 technical papers, some of them are in the top-tier refereed journals, such as IEEE Transactions on Cybernetics as the 1st or corresponding author. He has been one of the major participants in various scientific research projects, like National Natural Science Foundation of China. She is an active Invited Reviewer in more than 20 well-known international journals and conferences.
+YANG Yanping received the Ph.D. degree in control theory and control engineering from Shanghai University, Shanghai, China, in 2019. In 2018, she was a visiting student with the Swinburne University of Technology, Melbourne, VIC, Australia, for three months. She is currently a lecturer with the School of Information Sciences and Technology, [Donghua University (DHU)](http://english.dhu.edu.cn) , Shanghai. She has published more than 10 technical papers, some of them are in the top-tier refereed journals, such as IEEE Transactions on Cybernetics, as the 1st or corresponding author. She has been person in charge and one of the major participants in various scientific research projects, like National Natural Science Foundation of China. She is an active invited reviewer in more than 10 well-known international journals and conferences.
 
 ### **Research Topics**
 
@@ -67,3 +67,6 @@ Semester B (Spring):
 1. Youth post pioneer. Donghua University Committee of the Communist Youth League, May 2021.
 2. Best student paper. 5th IEEE International Conference on Cloud Computing and Intelligence Systems (CCIS), Nov. 2018.
 3. National scholarship for Postgraduates, Nov. 2018.
+
+### **Contact**
+(/ma1.jpg)

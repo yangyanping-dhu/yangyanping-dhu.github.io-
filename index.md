@@ -66,7 +66,7 @@ Semester B (Spring):
 
 1. Youth post pioneer. Donghua University Committee of the Communist Youth League, May 2021.
 2. Best student paper. 5th IEEE International Conference on Cloud Computing and Intelligence Systems (CCIS), Nov. 2018.
-3. National scholarship for Postgraduates, Nov. 2018.
+3. National scholarship for Postgraduates. Ministry of Education, PRC, Nov. 2018.
 
 ### **Contact**
 <div align=center>

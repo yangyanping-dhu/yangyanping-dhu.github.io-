@@ -1,8 +1,8 @@
 
 <table border="0">
-  <tr>
-    <td width="60%">
-      <h1>Yang Yanping (杨艳萍)
+<tr>
+<td width="60%">
+      <h1> Yang Yanping (杨艳萍)
       <p><b> Lecturer, Doctor of Philosophy </p></b> 
       <p><b> College of Information Science and Technology </p></b> 
       <p><b> Donghua University (211, Double First-Class) </p></b>
@@ -11,9 +11,9 @@
     </td>
     <td width="40%">
      <img src="/wo.jpg"width="100%">
-  </td>
-  </tr>
-  </table>
+</td>
+</tr>
+</table>
   
 ### Short Biography
 YANG Yanping received the Ph.D. degree in control theory and control engineering from Shanghai University, Shanghai, China, in 2019. In 2018, she was a Visiting Student with the Swinburne University of Technology, Melbourne, VIC, Australia, for three months. She is currently a Lecturer with the School of Information Sciences and Technology, Donghua University, Shanghai. She has published more than 10 technical papers, some of them are in the top-tier refereed journals, such as IEEE Transactions on Cybernetics as the 1st or corresponding author. He has been one of the major participants in various scientific research projects, like National Natural Science Foundation of China. She is an active Invited Reviewer in more than 20 well-known international journals and conferences.

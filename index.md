@@ -10,7 +10,7 @@
             <p><b> Email: yangyanping@dhu.edu.cn </b></p>
             </td>
             <td width="40%">
-      <img src="/wo.jpg"width="100%">
+      <img src="/wo.jpg" width="100%">
       </td>
       </tr>
       </table>

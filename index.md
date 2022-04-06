@@ -70,5 +70,5 @@ Semester B (Spring):
 
 ### **Contact**
 <div align=center>
-<img src="ma2.png" width="180" height="160"> 
+<img src="ma2.png" width="180" height="180"> 
 </div>

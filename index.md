@@ -2,7 +2,7 @@
 <table border="0">
       <tr>
             <td width="60%">
-                  <h1> Yang Yanping (杨艳萍)
+                  <h1> Yang Yanping (杨艳萍) </h1>
                         <p><b> Lecturer, Doctor of Philosophy </b></p>
                         <p><b> College of Information Science and Technology </b></p>
                   <p><b> Donghua University (211, Double First-Class) </b></p>

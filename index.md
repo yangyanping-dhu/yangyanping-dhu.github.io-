@@ -71,5 +71,5 @@ Semester B (Spring):
 ### **Contact**
 ![ma2](/ma2.png) 
 <div align=center>
-<img src="https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/img/ma2.png" width="180" height="105"> width="180" height="105"/>
+<img src="ma2.png" width="180" height="105"> width="180" height="105"/>
 </div>

@@ -1,6 +1,7 @@
+
 <table border="0">
   <tr>
-    <td width="70%">
+    <td width="60%">
       <h1>Yang Yanping (杨艳萍)
       <p><b> Lecturer, Doctor of Philosophy </p></b> 
       <p><b> College of Information Science and Technology </p></b> 
@@ -8,7 +9,7 @@
       <p><b> Songjiang District, Shanghai, China </p></b>
       <p><b> Email: yangyanping@dhu.edu.cn </p></b>
     </td>
-    <td width="30%">
+    <td width="40%">
      <img src="/wo.jpg"width="100%">
   </td>
   </tr>

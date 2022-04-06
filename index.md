@@ -69,4 +69,4 @@ Semester B (Spring):
 3. National scholarship for Postgraduates, Nov. 2018.
 
 ### **Contact**
-<img src="/ma1.jpg" width="100%">
+![ma1](/ma1.jpg)

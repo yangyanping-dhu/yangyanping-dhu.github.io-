@@ -43,14 +43,13 @@ Semester B (Spring):
 ### Publications (selected)
 
 1. Y. Yang, ["Switch-based cluster synchronization of networked harmonic oscillators subject to denial-of-service attacks"](https://www.sciencedirect.com/science/article/pii/S0019057822000519), ISA Transactions, doi:10.1016/j.isatra.2022.02.002.
-2. Y. Yang, W. He and Q.-L. Han, "Quasi-synchronization of heterogeneous LC circuits in grid-connected systems with intentionally time-varying lumped delays", IEEE Transactions on Circuits and Systems-I: Regular Papers, vol. 68, no. 5, pp. 2148-2157, May 2021.
-3. Y. Yang, X.-M. Zhang, W. He, Q.-L. Han and Chen Peng, "Sampled-position states based consensus of networked multi-agent systems with second-order dynamics subject to communication delays", Information Sciences, vol. 509, pp. 36-46, Jan. 2020.
-4. Y. Yang, X.-M. Zhang, W. He, Q.-L. Han and Chen Peng, "Position-based synchronization of networked harmonic oscillators with asynchronous sampling and communication delays", IEEE Transactions on Cybernetics, vol. 51, no. 8, pp. 4337-4347, Aug. 2021. 
-5. Y. Yang, W. He, Q.-L. Han and Chen Peng, "H∞ synchronization of networked master–slave oscillators with delayed position data: the
-positive effects of network-induced delays", IEEE Transactions on Cybernetics, vol. 49, no. 12, pp. 4090-4102, Dec. 2019.
-6. Y. Yang, D. Zhang and Q.-L. Han, "Networked active vibration control of structural systems: A nonsmall input delay approach", Journal of Vibration and Control, vol. 24, no. 22, pp. 5391–5400, 2018.
-7. D. Zhang, Y. Yang and X. Jia and Q.-L. Han, "Investigating the positive effects of packet dropouts on network-based H∞ control for a class of linear systems",  vol. 353, no. 14, pp. 3343-3367, Sep. 2016.
-9. 杨艳萍，张大伟， 基于粒子群优化设计算法的输出跟踪控制， 自动化技术与应用，第35卷，第1期，第8-13，25页，2016.
+2. Y. Yang, W. He and Q.-L. Han, ["Quasi-synchronization of heterogeneous LC circuits in grid-connected systems with intentionally time-varying lumped delays"](https://ieeexplore.ieee.org/document/9369884), IEEE Transactions on Circuits and Systems-I: Regular Papers, vol. 68, no. 5, pp. 2148-2157, May 2021.
+3. Y. Yang, X.-M. Zhang, W. He, Q.-L. Han and Chen Peng, ["Position-based synchronization of networked harmonic oscillators with asynchronous sampling and communication delays"](https://ieeexplore.ieee.org/document/8753514), IEEE Transactions on Cybernetics, vol. 51, no. 8, pp. 4337-4347, Aug. 2021.
+4. Y. Yang, W. He, Q.-L. Han and Chen Peng, ["H∞ synchronization of networked master–slave oscillators with delayed position data: the positive effects of network-induced delays"](https://ieeexplore.ieee.org/document/8432109), IEEE Transactions on Cybernetics, vol. 49, no. 12, pp. 4090-4102, Dec. 2019.
+5. Y. Yang, X.-M. Zhang, W. He, Q.-L. Han and Chen Peng, ["Sampled-position states based consensus of networked multi-agent systems with second-order dynamics subject to communication delays"](https://www.sciencedirect.com/science/article/pii/S0020025519308254), Information Sciences, vol. 509, pp. 36-46, Jan. 2020.
+6. Y. Yang, D. Zhang and Q.-L. Han, ["Networked active vibration control of structural systems: A nonsmall input delay approach"](https://journals.sagepub.com/doi/abs/10.1177/1077546317753861), Journal of Vibration and Control, vol. 24, no. 22, pp. 5391–5400, 2018.
+7. D. Zhang, Y. Yang and X. Jia and Q.-L. Han, ["Investigating the positive effects of packet dropouts on network-based H∞ control for a class of linear systems"](https://www.sciencedirect.com/science/article/pii/S0016003216302022),  vol. 353, no. 14, pp. 3343-3367, Sep. 2016.
+9. 杨艳萍，张大伟， [基于粒子群优化设计算法的输出跟踪控制](https://d.wanfangdata.com.cn/periodical/hljzdhjsyyy201601002)， 自动化技术与应用，第35卷，第1期，第8-13，25页，2016.
 
 ### Conferences (selected)
 

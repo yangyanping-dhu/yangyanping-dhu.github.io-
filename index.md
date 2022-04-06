@@ -66,4 +66,3 @@ positive effects of network-induced delays", IEEE Transactions on Cybernetics, v
 ### Honers and Awards
 
 1. Best student paper. 5th IEEE International Conference on Cloud Computing and Intelligence Systems (CCIS), Nov. 2018.
-

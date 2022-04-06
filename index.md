@@ -33,7 +33,7 @@ Semester B (Spring):
 1. Automatic control theory (for undergraduate students)
 2. Autonomous intelligence (for graduate students)
 
-### [**Research Projects**]
+### **Research Projects**
 
 1. National Natural Science Foundation of China. "Security control of network second-order multi-agent systems subject to denial-of-service attacks", Person in Charge, Grant No. 62103097 (2022.01-2024.12).
 2. Shanghai Sailing Program. "Investigating the positive effects of transmission delay and cyber-attack on the cooperative control of multi-agent systems”, Person in Charge, Grant No. 20YF1401600 (07/2020-6/2023).

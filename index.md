@@ -69,4 +69,7 @@ Semester B (Spring):
 3. National scholarship for Postgraduates, Nov. 2018.
 
 ### **Contact**
-![ma1](/ma1.png) 
+![ma2](/ma2.png) 
+<div align=center>
+<img src="https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/img/ma2.png" width="180" height="105"> width="180" height="105"/>
+</div>

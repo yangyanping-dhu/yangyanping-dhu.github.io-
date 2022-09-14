@@ -56,7 +56,7 @@ Semester B (Spring):
 
 ### **Conferences (selected)**
 
-1. Y. Yang and S. Li, ["Cluster consensus of multi-agent systems with switching topology under event-triggered strategy"](https://ieeexplore.ieee.org/document/9728029), 2021 China Automation Congress (CAC), Beijing, China, Oct. 22-24, 2021. 
+1. Y. Yang and S. Li, ["Cluster consensus of multi-agent systems with switching topology under event-triggered strategy"](https://ieeexplore.ieee.org/document/9728029), 2021 China Automation Congress (CAC), pp. 7856-7861, Beijing, China, Oct. 22-24, 2021. 
 2. Y. Yang, D. Zhang, Q.-L. Han, C. Peng, ["Networked active vibration control of structural systems under network-induced delays"](https://ieeexplore.ieee.org/document/8691333), 5th IEEE International Conference on Cloud Computing and Intelligence Systems (CCIS), pp. 146-151, Nanjing, China, 23-25 Nov. 2018.
 3. Y. Yang, D. Zhang, Q.-L. Han, ["A case study of whether or not intentionally network-induced delay vibration control"](https://ieeexplore.ieee.org/document/7978107), 29th Chinese Control and Decision Conference (CCDC), pp. 285-290, Chongqing, China, 28-30 May 2017.
 4. M. Yang, Y. Yang, D. Zhang and X. Chun, ["PID control for a height adjustable wheel-direct-drive system via time-varying samplings"](https://ieeexplore.ieee.org/document/7554795), 35th Chinese Control Conference (CCC), pp. 9015-9020, Chengdu, China, Jul. 27-29, 2016.

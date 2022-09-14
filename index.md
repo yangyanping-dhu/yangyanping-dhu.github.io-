@@ -42,8 +42,8 @@ Semester B (Spring):
 
 ### **Publications (selected)**
 
-1. Y. Yang, W. He and S. Li,  ["Refined dynamic event-triggering cluster consensus of multiagent systems with fixed/switching topology"](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9874977), IEEE Transactions on Cybernetics, doi: 10.1109/TCYB.2022.3199097.
-2. Y. Yang, C. Peng and Q.-L. Han, ["The synchronization of networked harmonic oscillators under denial-of-service attacks"](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9833548), IEEE Transactions on Systems, Man, and Cybernetics: Systems, doi: 10.1109/TSMC.2022.3189403.
+1. Y. Yang, W. He and S. Li,  ["Refined dynamic event-triggering cluster consensus of multiagent systems with fixed/switching topology"](https://ieeexplore.ieee.org/document/9874977), IEEE Transactions on Cybernetics, doi: 10.1109/TCYB.2022.3199097.
+2. Y. Yang, C. Peng and Q.-L. Han, ["The synchronization of networked harmonic oscillators under denial-of-service attacks"](https://ieeexplore.ieee.org/document/9833548), IEEE Transactions on Systems, Man, and Cybernetics: Systems, doi: 10.1109/TSMC.2022.3189403.
 3. Y. Yang, ["Switch-based cluster synchronization of networked harmonic oscillators subject to denial-of-service attacks"](https://www.sciencedirect.com/science/article/pii/S0019057822000519), ISA Transactions, vol. 127, pp. 239-250, Aug. 2022.
 4. Y. Yang, W. He and Q.-L. Han, ["Quasi-synchronization of heterogeneous LC circuits in grid-connected systems with intentionally time-varying lumped delays"](https://ieeexplore.ieee.org/document/9369884), IEEE Transactions on Circuits and Systems-I: Regular Papers, vol. 68, no. 5, pp. 2148-2157, May 2021.
 5. Y. Yang, X.-M. Zhang, W. He, Q.-L. Han and Chen Peng, ["Position-based synchronization of networked harmonic oscillators with asynchronous sampling and communication delays"](https://ieeexplore.ieee.org/document/8753514), IEEE Transactions on Cybernetics, vol. 51, no. 8, pp. 4337-4347, Aug. 2021.

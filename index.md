@@ -31,7 +31,7 @@ Semester A (Autumn):
 
 Semester B (Spring):
 1. Automatic control theory (for undergraduate students)
-2. Autonomous intelligence (for graduate students)
+2. Autonomous intelligent systems (for graduate students)
 
 ### **Research Projects**
 

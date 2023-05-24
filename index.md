@@ -3,7 +3,7 @@
       <tr>
             <td width="60%">
                   <h1> Yang Yanping (杨艳萍) </h1>
-                        <p><b> Lecturer, Doctor of Philosophy </b></p>
+                        <p><b> Associate Professor, Doctor of Philosophy </b></p>
                         <p><b> College of Information Science and Technology </b></p>
                   <p><b> Donghua University (211, Double First-Class) </b></p>
             <p><b> Songjiang District, Shanghai, China </b></p>
@@ -57,14 +57,15 @@ Semester B (Spring):
 
 ### **Conferences (selected)**
 
-1. Y. Yang and S. Li, ["Cluster consensus of multi-agent systems with switching topology under event-triggered strategy"](https://ieeexplore.ieee.org/document/9728029), 2021 China Automation Congress (CAC), pp. 7856-7861, Beijing, China, Oct. 22-24, 2021. 
-2. Y. Yang, D. Zhang, Q.-L. Han and, C. Peng, ["Networked active vibration control of structural systems under network-induced delays"](https://ieeexplore.ieee.org/document/8691333), 5th IEEE International Conference on Cloud Computing and Intelligence Systems (CCIS), pp. 146-151, Nanjing, China, 23-25 Nov. 2018.
-3. Y. Yang, D. Zhang and Q.-L. Han, ["A case study of whether or not intentionally network-induced delay vibration control"](https://ieeexplore.ieee.org/document/7978107), 29th Chinese Control and Decision Conference (CCDC), pp. 285-290, Chongqing, China, 28-30 May 2017.
-4. M. Yang, Y. Yang, D. Zhang and X. jia, ["PID control for a height adjustable wheel-direct-drive system via time-varying samplings"](https://ieeexplore.ieee.org/document/7554795), 35th Chinese Control Conference (CCC), pp. 9015-9020, Chengdu, China, Jul. 27-29, 2016.
-5. J. Zhao, Y. Yang, D. Zhang and X. Jia, ["Networked L2-gain analysis and controller design for T-S fuzzy systems via an event-triggered communication scheme"](https://ieeexplore.ieee.org/document/7260708), 34th Chinese Control Conference (CCC), pp. 6771-6776, Hangzhou, China, 28-30 Jul. 2015.
-6. W. Ma, Y. Yang, X. Jia and D. Zhang, ["Network-based H∞ control for a class of dual-rate sampled-data systems"](https://ieeexplore.ieee.org/document/7049047), 40th Annual Conference of the IEEE Industrial Electronics Society (IECON), pp. 3682-3686, Dallas, TX, USA, 29 Oct.-1. Nov. 2014.
-7. W. Bai, K. Jia, Y. Yang and D. Zhang, ["Dual-rate sampled-data H∞ control for vehicle active suspension systems"](https://ieeexplore.ieee.org/document/6852724), 26th Chinese Control and Decision Conference (CCDC), pp. 3190-3195, Changsha, China, 31 May-2 June 2014.
-8. P. Albertos, A. Crespo, W. He, Y. Yang and P. Garcia, ["Networked control of unstable resonant systems"](https://ieeexplore.ieee.org/abstract/document/8899519), 15th IEEE International Conference on Control & Automation (ICCA), Edinburgh, Scotland, Jul. 16-19, 2019.
+1. Y. Yang and S. Ma, ["Scaled formation control for multi-agent systems via a dynamic event-triggered mechanism"](https://ieeexplore.ieee.org/document/10055823), 2022 China Automation Congress (CAC), pp. 3371-3376, Xiamen, China, Nov. 25-27, 2022.
+2. Y. Yang and S. Li, ["Cluster consensus of multi-agent systems with switching topology under event-triggered strategy"](https://ieeexplore.ieee.org/document/9728029), 2021 China Automation Congress (CAC), pp. 7856-7861, Beijing, China, Oct. 22-24, 2021. 
+3. Y. Yang, D. Zhang, Q.-L. Han and, C. Peng, ["Networked active vibration control of structural systems under network-induced delays"](https://ieeexplore.ieee.org/document/8691333), 5th IEEE International Conference on Cloud Computing and Intelligence Systems (CCIS), pp. 146-151, Nanjing, China, 23-25 Nov. 2018.
+4. Y. Yang, D. Zhang and Q.-L. Han, ["A case study of whether or not intentionally network-induced delay vibration control"](https://ieeexplore.ieee.org/document/7978107), 29th Chinese Control and Decision Conference (CCDC), pp. 285-290, Chongqing, China, 28-30 May 2017.
+5. M. Yang, Y. Yang, D. Zhang and X. jia, ["PID control for a height adjustable wheel-direct-drive system via time-varying samplings"](https://ieeexplore.ieee.org/document/7554795), 35th Chinese Control Conference (CCC), pp. 9015-9020, Chengdu, China, Jul. 27-29, 2016.
+6. J. Zhao, Y. Yang, D. Zhang and X. Jia, ["Networked L2-gain analysis and controller design for T-S fuzzy systems via an event-triggered communication scheme"](https://ieeexplore.ieee.org/document/7260708), 34th Chinese Control Conference (CCC), pp. 6771-6776, Hangzhou, China, 28-30 Jul. 2015.
+7. W. Ma, Y. Yang, X. Jia and D. Zhang, ["Network-based H∞ control for a class of dual-rate sampled-data systems"](https://ieeexplore.ieee.org/document/7049047), 40th Annual Conference of the IEEE Industrial Electronics Society (IECON), pp. 3682-3686, Dallas, TX, USA, 29 Oct.-1. Nov. 2014.
+8. W. Bai, K. Jia, Y. Yang and D. Zhang, ["Dual-rate sampled-data H∞ control for vehicle active suspension systems"](https://ieeexplore.ieee.org/document/6852724), 26th Chinese Control and Decision Conference (CCDC), pp. 3190-3195, Changsha, China, 31 May-2 June 2014.
+9. P. Albertos, A. Crespo, W. He, Y. Yang and P. Garcia, ["Networked control of unstable resonant systems"](https://ieeexplore.ieee.org/abstract/document/8899519), 15th IEEE International Conference on Control & Automation (ICCA), Edinburgh, Scotland, Jul. 16-19, 2019.
 
 ### **Honers and Awards**
 

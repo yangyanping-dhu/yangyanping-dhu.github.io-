@@ -3,7 +3,7 @@
       <tr>
             <td width="60%">
                   <h1> Yang Yanping (杨艳萍) </h1>
-                        <p><b> Associate Professor, Doctor of Philosophy </b></p>
+                        <p><b> Associate Professor, PhD </b></p>
                         <p><b> College of Information Science and Technology </b></p>
                   <p><b> Donghua University (211, Double First-Class) </b></p>
             <p><b> Songjiang District, Shanghai, China </b></p>

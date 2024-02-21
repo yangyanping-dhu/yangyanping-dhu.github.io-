@@ -42,31 +42,33 @@ Semester B (Spring):
 
 ### **Publications (selected)**
 
-1. Y. Yang, B. Shen and Q.-L. Han, ["Dynamic event-triggered scaled consensus of multi-agent systems in reliable and unreliable networks"](https://ieeexplore.ieee.org/document/10302179), IEEE Transactions on Systems, Man, and Cybernetics: Systems, doi: 10.1109/TSMC.2023.3324142.
-2. Y. Yang, S. Li, X. Ge and Q.-L. Han, ["Event-triggered cluster consensus of multi-agent systems via a modified genetic algorithm"](https://ieeexplore.ieee.org/document/9930851), IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2022.3212967.
-3. Y. Yang, W. He and S. Li,  ["Refined dynamic event-triggering cluster consensus of multiagent systems with fixed/switching topology"](https://ieeexplore.ieee.org/document/9874977), IEEE Transactions on Cybernetics, doi: 10.1109/TCYB.2022.3199097.
-4. Y. Yang, C. Peng and Q.-L. Han, ["The synchronization of networked harmonic oscillators under denial-of-service attacks"](https://ieeexplore.ieee.org/document/9833548), IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol. 53, no. 2, pp. 789-800, Feb. 2023.
-5. Z.-Q. Liu, Y.-L. Wang, Q.-L. Han and Y. Yang, ["Network-based multiple operating points cooperative dynamic positioning of unmanned surface vehicles"](https://ieeexplore.ieee.org/document/9834045), IEEE/ASME Transactions on Mechatronics, vol. 27, no. 6, pp. 5736-5747, Dec. 2022. 
-6. Y. Yang, ["Switch-based cluster synchronization of networked harmonic oscillators subject to denial-of-service attacks"](https://www.sciencedirect.com/science/article/pii/S0019057822000519), ISA Transactions, vol. 127, pp. 239-250, Aug. 2022.
-7. Y. Yang, W. He and Q.-L. Han, ["Quasi-synchronization of heterogeneous LC circuits in grid-connected systems with intentionally time-varying lumped delays"](https://ieeexplore.ieee.org/document/9369884), IEEE Transactions on Circuits and Systems-I: Regular Papers, vol. 68, no. 5, pp. 2148-2157, May 2021.
-8. Y. Yang, X.-M. Zhang, W. He, Q.-L. Han and C. Peng, ["Position-based synchronization of networked harmonic oscillators with asynchronous sampling and communication delays"](https://ieeexplore.ieee.org/document/8753514), IEEE Transactions on Cybernetics, vol. 51, no. 8, pp. 4337-4347, Aug. 2021.
-9. Y. Yang, W. He, Q.-L. Han and C. Peng, ["H∞ synchronization of networked master–slave oscillators with delayed position data: the positive effects of network-induced delays"](https://ieeexplore.ieee.org/document/8432109), IEEE Transactions on Cybernetics, vol. 49, no. 12, pp. 4090-4102, Dec. 2019.
-10. Y. Yang, X.-M. Zhang, W. He, Q.-L. Han and C. Peng, ["Sampled-position states based consensus of networked multi-agent systems with second-order dynamics subject to communication delays"](https://www.sciencedirect.com/science/article/pii/S0020025519308254), Information Sciences, vol. 509, pp. 36-46, Jan. 2020.
-11. Y. Yang, D. Zhang and Q.-L. Han, ["Networked active vibration control of structural systems: A nonsmall input delay approach"](https://journals.sagepub.com/doi/abs/10.1177/1077546317753861), Journal of Vibration and Control, vol. 24, no. 22, pp. 5391–5400, 2018.
-12. D. Zhang, Y. Yang, X. Jia and Q.-L. Han, ["Investigating the positive effects of packet dropouts on network-based H∞ control for a class of linear systems"](https://www.sciencedirect.com/science/article/pii/S0016003216302022),  Journal of the Franklin Institute, vol. 353, no. 14, pp. 3343-3367, Sep. 2016.
-13. 杨艳萍，张大伟， [基于粒子群优化设计算法的输出跟踪控制](https://d.wanfangdata.com.cn/periodical/hljzdhjsyyy201601002)， 自动化技术与应用，第35卷，第1期，第8-13，25页，2016.
+1. Y. Yang, S. Li, X. Ge and Q.-L. Han, ["Event-triggered cluster consensus of multi-agent systems via a modified genetic algorithm"](https://ieeexplore.ieee.org/document/9930851), IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2022.3212967.
+2. Y. Yang, W. He and S. Li,  ["Refined dynamic event-triggering cluster consensus of multiagent systems with fixed/switching topology"](https://ieeexplore.ieee.org/document/9874977), IEEE Transactions on Cybernetics, vol. 54, no. 3, pp. 1377-1390, Mar. 2024.
+3. Y. Yang, B. Shen and Q.-L. Han, ["Dynamic event-triggered scaled consensus of multi-agent systems in reliable and unreliable networks"](https://ieeexplore.ieee.org/document/10302179), IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol. 54, no. 2, pp. 1124-1136, Feb. 2024.
+4. Y. Yang, S. Ma, D. Li and J. Suo, ["Modified dynamic event-triggered scaled formation control for multi-agent systems via a sparrow search algorithm based co-design algorithm"](https://link.springer.com/article/10.1631/FITEE.2300615), Frontiers of Information Technology & Electronic Engineering, vol. 25, pp. 197–213, Feb. 2024. 
+7. Y. Yang, C. Peng and Q.-L. Han, ["The synchronization of networked harmonic oscillators under denial-of-service attacks"](https://ieeexplore.ieee.org/document/9833548), IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol. 53, no. 2, pp. 789-800, Feb. 2023.
+8. Z.-Q. Liu, Y.-L. Wang, Q.-L. Han and Y. Yang, ["Network-based multiple operating points cooperative dynamic positioning of unmanned surface vehicles"](https://ieeexplore.ieee.org/document/9834045), IEEE/ASME Transactions on Mechatronics, vol. 27, no. 6, pp. 5736-5747, Dec. 2022. 
+9. Y. Yang, ["Switch-based cluster synchronization of networked harmonic oscillators subject to denial-of-service attacks"](https://www.sciencedirect.com/science/article/pii/S0019057822000519), ISA Transactions, vol. 127, pp. 239-250, Aug. 2022.
+10. Y. Yang, X.-M. Zhang, W. He, Q.-L. Han and C. Peng, ["Position-based synchronization of networked harmonic oscillators with asynchronous sampling and communication delays"](https://ieeexplore.ieee.org/document/8753514), IEEE Transactions on Cybernetics, vol. 51, no. 8, pp. 4337-4347, Aug. 2021. 
+11. Y. Yang, W. He and Q.-L. Han, ["Quasi-synchronization of heterogeneous LC circuits in grid-connected systems with intentionally time-varying lumped delays"](https://ieeexplore.ieee.org/document/9369884), IEEE Transactions on Circuits and Systems-I: Regular Papers, vol. 68, no. 5, pp. 2148-2157, May 2021.
+13. Y. Yang, X.-M. Zhang, W. He, Q.-L. Han and C. Peng, ["Sampled-position states based consensus of networked multi-agent systems with second-order dynamics subject to communication delays"](https://www.sciencedirect.com/science/article/pii/S0020025519308254), Information Sciences, vol. 509, pp. 36-46, Jan. 2020.
+14. Y. Yang, W. He, Q.-L. Han and C. Peng, ["H∞ synchronization of networked master–slave oscillators with delayed position data: the positive effects of network-induced delays"](https://ieeexplore.ieee.org/document/8432109), IEEE Transactions on Cybernetics, vol. 49, no. 12, pp. 4090-4102, Dec. 2019.
+15. Y. Yang, D. Zhang and Q.-L. Han, ["Networked active vibration control of structural systems: A nonsmall input delay approach"](https://journals.sagepub.com/doi/abs/10.1177/1077546317753861), Journal of Vibration and Control, vol. 24, no. 22, pp. 5391–5400, 2018.
+16. D. Zhang, Y. Yang, X. Jia and Q.-L. Han, ["Investigating the positive effects of packet dropouts on network-based H∞ control for a class of linear systems"](https://www.sciencedirect.com/science/article/pii/S0016003216302022),  Journal of the Franklin Institute, vol. 353, no. 14, pp. 3343-3367, Sep. 2016.
+17. 杨艳萍，张大伟， [基于粒子群优化设计算法的输出跟踪控制](https://d.wanfangdata.com.cn/periodical/hljzdhjsyyy201601002)， 自动化技术与应用，第35卷，第1期，第8-13，25页，2016.
 
 ### **Conferences (selected)**
 
-1. Y. Yang and S. Ma, ["Scaled formation control for multi-agent systems via a dynamic event-triggered mechanism"](https://ieeexplore.ieee.org/document/10055823), 2022 China Automation Congress (CAC), pp. 3371-3376, Xiamen, China, Nov. 25-27, 2022.
-2. Y. Yang and S. Li, ["Cluster consensus of multi-agent systems with switching topology under event-triggered strategy"](https://ieeexplore.ieee.org/document/9728029), 2021 China Automation Congress (CAC), pp. 7856-7861, Beijing, China, Oct. 22-24, 2021. 
-3. Y. Yang, D. Zhang, Q.-L. Han and, C. Peng, ["Networked active vibration control of structural systems under network-induced delays"](https://ieeexplore.ieee.org/document/8691333), 5th IEEE International Conference on Cloud Computing and Intelligence Systems (CCIS), pp. 146-151, Nanjing, China, 23-25 Nov. 2018.
-4. Y. Yang, D. Zhang and Q.-L. Han, ["A case study of whether or not intentionally network-induced delay vibration control"](https://ieeexplore.ieee.org/document/7978107), 29th Chinese Control and Decision Conference (CCDC), pp. 285-290, Chongqing, China, 28-30 May 2017.
-5. M. Yang, Y. Yang, D. Zhang and X. jia, ["PID control for a height adjustable wheel-direct-drive system via time-varying samplings"](https://ieeexplore.ieee.org/document/7554795), 35th Chinese Control Conference (CCC), pp. 9015-9020, Chengdu, China, Jul. 27-29, 2016.
-6. J. Zhao, Y. Yang, D. Zhang and X. Jia, ["Networked L2-gain analysis and controller design for T-S fuzzy systems via an event-triggered communication scheme"](https://ieeexplore.ieee.org/document/7260708), 34th Chinese Control Conference (CCC), pp. 6771-6776, Hangzhou, China, 28-30 Jul. 2015.
-7. W. Ma, Y. Yang, X. Jia and D. Zhang, ["Network-based H∞ control for a class of dual-rate sampled-data systems"](https://ieeexplore.ieee.org/document/7049047), 40th Annual Conference of the IEEE Industrial Electronics Society (IECON), pp. 3682-3686, Dallas, TX, USA, 29 Oct.-1. Nov. 2014.
-8. W. Bai, K. Jia, Y. Yang and D. Zhang, ["Dual-rate sampled-data H∞ control for vehicle active suspension systems"](https://ieeexplore.ieee.org/document/6852724), 26th Chinese Control and Decision Conference (CCDC), pp. 3190-3195, Changsha, China, 31 May-2 June 2014.
-9. P. Albertos, A. Crespo, W. He, Y. Yang and P. Garcia, ["Networked control of unstable resonant systems"](https://ieeexplore.ieee.org/abstract/document/8899519), 15th IEEE International Conference on Control & Automation (ICCA), Edinburgh, Scotland, Jul. 16-19, 2019.
+1. L. Yu, W. He and Y. Yang, ["Mean-square exponential consensus of nonlinear multi-agent systems via distributed random impulsive control"](https://ieeexplore.ieee.org/document/10311871), doi: 10.1109/IECON51785.2023.10311871.
+2. Y. Yang and S. Ma, ["Scaled formation control for multi-agent systems via a dynamic event-triggered mechanism"](https://ieeexplore.ieee.org/document/10055823), 2022 China Automation Congress (CAC), pp. 3371-3376, Xiamen, China, Nov. 25-27, 2022.
+3. Y. Yang and S. Li, ["Cluster consensus of multi-agent systems with switching topology under event-triggered strategy"](https://ieeexplore.ieee.org/document/9728029), 2021 China Automation Congress (CAC), pp. 7856-7861, Beijing, China, Oct. 22-24, 2021. 
+4. Y. Yang, D. Zhang, Q.-L. Han and, C. Peng, ["Networked active vibration control of structural systems under network-induced delays"](https://ieeexplore.ieee.org/document/8691333), 5th IEEE International Conference on Cloud Computing and Intelligence Systems (CCIS), pp. 146-151, Nanjing, China, 23-25 Nov. 2018.
+5. Y. Yang, D. Zhang and Q.-L. Han, ["A case study of whether or not intentionally network-induced delay vibration control"](https://ieeexplore.ieee.org/document/7978107), 29th Chinese Control and Decision Conference (CCDC), pp. 285-290, Chongqing, China, 28-30 May 2017.
+6. M. Yang, Y. Yang, D. Zhang and X. jia, ["PID control for a height adjustable wheel-direct-drive system via time-varying samplings"](https://ieeexplore.ieee.org/document/7554795), 35th Chinese Control Conference (CCC), pp. 9015-9020, Chengdu, China, Jul. 27-29, 2016.
+7. J. Zhao, Y. Yang, D. Zhang and X. Jia, ["Networked L2-gain analysis and controller design for T-S fuzzy systems via an event-triggered communication scheme"](https://ieeexplore.ieee.org/document/7260708), 34th Chinese Control Conference (CCC), pp. 6771-6776, Hangzhou, China, 28-30 Jul. 2015.
+8. W. Ma, Y. Yang, X. Jia and D. Zhang, ["Network-based H∞ control for a class of dual-rate sampled-data systems"](https://ieeexplore.ieee.org/document/7049047), 40th Annual Conference of the IEEE Industrial Electronics Society (IECON), pp. 3682-3686, Dallas, TX, USA, 29 Oct.-1. Nov. 2014.
+9. W. Bai, K. Jia, Y. Yang and D. Zhang, ["Dual-rate sampled-data H∞ control for vehicle active suspension systems"](https://ieeexplore.ieee.org/document/6852724), 26th Chinese Control and Decision Conference (CCDC), pp. 3190-3195, Changsha, China, 31 May-2 June 2014.
+10. P. Albertos, A. Crespo, W. He, Y. Yang and P. Garcia, ["Networked control of unstable resonant systems"](https://ieeexplore.ieee.org/abstract/document/8899519), 15th IEEE International Conference on Control & Automation (ICCA), Edinburgh, Scotland, Jul. 16-19, 2019.
 
 ### **Honers and Awards**
 
@@ -75,8 +77,8 @@ Semester B (Spring):
 3. National scholarship for Postgraduates. Ministry of Education, PRC, Nov. 2018.
 
 ### **Patents**
-1. 杨艳萍, 王晨曦, 沈波. 通信故障下的智能车群分布式控制装置及协同控制方法.
-2. 杨艳萍, 李骄阳, 沈波. 基于模型和动态事件触发的多智能体抵御 DoS 攻击的控制方法.
+1. 杨艳萍, 王晨曦, 沈波. 通信故障下的智能车群分布式控制装置及协同控制方法(CN202310732237.8).
+2. 杨艳萍, 李骄阳, 沈波. 基于模型和动态事件触发的多智能体抵御 DoS 攻击的控制方法(CN202310780698.).
 
 ### **Contact**
 <div align=center>

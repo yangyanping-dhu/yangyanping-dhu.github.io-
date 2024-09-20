@@ -42,7 +42,7 @@ Semester B (Spring):
 
 ### **Publications (selected)**
 
-1. Y. Yang, S. Li, X. Ge and Q.-L. Han, ["Event-triggered cluster consensus of multi-agent systems via a modified genetic algorithm"](https://ieeexplore.ieee.org/document/9930851), IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2022.3212967.
+1. Y. Yang, S. Li, X. Ge and Q.-L. Han, ["Event-triggered cluster consensus of multi-agent systems via a modified genetic algorithm"](https://ieeexplore.ieee.org/document/9930851), IEEE Transactions on Neural Networks and Learning Systems, vol. 35, no. 5, pp. 6792-6805, May 2024.
 2. Y. Yang, W. He and S. Li,  ["Refined dynamic event-triggering cluster consensus of multiagent systems with fixed/switching topology"](https://ieeexplore.ieee.org/document/9874977), IEEE Transactions on Cybernetics, vol. 54, no. 3, pp. 1377-1390, Mar. 2024.
 3. Y. Yang, B. Shen and Q.-L. Han, ["Dynamic event-triggered scaled consensus of multi-agent systems in reliable and unreliable networks"](https://ieeexplore.ieee.org/document/10302179), IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol. 54, no. 2, pp. 1124-1136, Feb. 2024.
 4. Y. Yang, S. Ma, D. Li and J. Suo, ["Modified dynamic event-triggered scaled formation control for multi-agent systems via a sparrow search algorithm based co-design algorithm"](https://link.springer.com/article/10.1631/FITEE.2300615), Frontiers of Information Technology & Electronic Engineering, vol. 25, pp. 197–213, Feb. 2024. 
